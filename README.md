@@ -4,8 +4,12 @@ en GitHub además del manejo de Bootstrap 4, frameworks a nivel intermedio en La
 estudiando en el Centro Venezolano Americano (Actualmente B2 en el idioma). Soy experto en criptomonedas y plataformas como binance y metamask. 
 Soy voluntario en AVAA.
 Enlaces de Interés: 
+
 GitHub: https://github.com/luigi019 
+
 Emprendimiento: http://funnywebs.herokuapp.com/ 
+
 Linkedin: https://www.linkedin.com/in/luigi-jos%C3%A9-hern%C3%A1ndez-gutierrez-835018175?original_referer=
 
-Puede visualizar más descargando los archivos a través de https://drive.google.com/drive/folders/1zuhPzOGeh-mOQExWIf8-obuFr8_Tu-GE
+Puede visualizar más descargando los archivos a través de 
+https://drive.google.com/drive/folders/1zuhPzOGeh-mOQExWIf8-obuFr8_Tu-GE
