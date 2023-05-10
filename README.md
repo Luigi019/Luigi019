@@ -9,7 +9,7 @@ Links of Interest:
 
 GitHub: https://github.com/luigi019
 
-LinkedIn: https://www.linkedin.com/in/luigi-jos%C3%A9-hern%C3%A1ndez-gutierrez-835018175?original_referer=
+LinkedIn: https://www.linkedin.com/in/luigijhernandez/ 
 
 You can view more by downloading the files through:
 https://drive.google.com/drive/folders/1zuhPzOGeh-mOQExWIf8-obuFr8_Tu-GE
