@@ -1,15 +1,15 @@
-Ingeniero en informática y desarrollador Web con conocimientos en PHP, PostgreSQL, MySQL, Java Script, CSS y fuertes conocimientos 
-en GitHub además del manejo de Bootstrap 4, frameworks a nivel intermedio en Laravel, básico en Vue, React y librerías de Jquery
-(con ganas de aumentar el conocimiento). Becario de Proexcelencia Avaa (Asociación Venezolana Americana de Amistad) y bilingüe (Inglés y Español)
-estudiando en el Centro Venezolano Americano (Actualmente B2 en el idioma). Soy experto en criptomonedas y plataformas como binance y metamask. 
-Soy voluntario en AVAA.
-Enlaces de Interés: 
+I am an IT engineer and junior full-stack web developer, with 3 years of experience in PHP, MySQL, JavaScript, CSS, Laravel, and ReactJS, focused on implementing good practices, constant learning, and seeking new professional challenges.
 
-GitHub: https://github.com/luigi019 
+In addition to my academic background and work experience, I have developed skills in creating innovative technological solutions, and have knowledge in using prompts for AI. I consider myself self-taught, curious, and passionate about technology, which has led me to explore new technologies such as JavaScript frameworks, Blockchain technologies, and English.
 
-Emprendimiento: http://funnywebs.herokuapp.com/ 
+As an AVAA graduate, I have learned about the importance of cultural exchange and education, values that have enriched my perspective and my ability to work in teams. I am committed to developing technological solutions that make a difference and add value to society.
 
-Linkedin: https://www.linkedin.com/in/luigi-jos%C3%A9-hern%C3%A1ndez-gutierrez-835018175?original_referer=
+If you want to know more about me, do not hesitate to contact me through my email: luigijhernandez7575@gmail.com. I am excited to connect with other professionals and discover new opportunities together! 🚀🚀🚀
+Links of Interest:
 
-Puede visualizar más descargando los archivos a través de 
+GitHub: https://github.com/luigi019
+
+LinkedIn: https://www.linkedin.com/in/luigi-jos%C3%A9-hern%C3%A1ndez-gutierrez-835018175?original_referer=
+
+You can view more by downloading the files through:
 https://drive.google.com/drive/folders/1zuhPzOGeh-mOQExWIf8-obuFr8_Tu-GE
